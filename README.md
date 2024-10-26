@@ -1,4 +1,4 @@
-# My First Machine Learnig Project
+# My First Machine Learning Project
 This repository houses my inaugural machine learning project, undertaken as part of the NxtWave Academy program. The primary objective of this project is to study about the Machine Learning Model.
 
 Project URL: https://myfirstmlmodel.ccbp.in/3NX0IJRJO5
